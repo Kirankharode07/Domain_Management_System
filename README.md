@@ -1,1 +1,2 @@
 # Domain_Management_System
+The **Domain Management System** is a comprehensive Angular-based web application designed for efficient management of domain names. It offers secure user authentication, a dynamic dashboard for viewing and managing domains, and full CRUD functionality for domain records. The project also incorporates responsive UI design, form validation, and seamless navigation, making it an excellent showcase of foundational Angular skills and web development principles.
